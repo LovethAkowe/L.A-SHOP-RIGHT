@@ -1,0 +1,143 @@
+PROJECT TITLE
+
+EXCEL SUPERMARKET SALES REPORT ( 2015-2018)
+
+Introduction
+
+The dataset explores sales performance across different dimensions, providing a deep dive into customer contributions, product categories, regional sales, and market trends. It sheds light on key players in the business, from top-performing customers to the most profitable product segments. By analyzing regional contributions, the data reveals which areas drive revenue growth. Cities with the highest sales numbers tell a story of concentrated demand, while sales trends over time highlight patterns and shifts in consumer behavior. The segmentation breakdown shows how different customer groups contribute to overall performance. This visualization-driven analysis offers valuable insights to optimize strategies, improve decision-making, and drive business success.
+
+Key Skills:
+
+1. Data collection and cleaning: The dataset was collected from Kaggle and thoroughly cleaned using excel tools.
+
+2. Data Analysis: Extracting actionable insights from diverse datasets to identify patterns and trends.
+
+3. Customer Behavior Analysis: Understanding customer preferences and ratings to inform marketing strategies.
+
+4. Performance Benchmarking: Identifying top-performing branches and product lines for targeted interventions.
+
+Methodology
+
+Data Collection: Compiling sales data from multiple sources, including regions and product categories.
+Data Visualization: Creating an intuitive excel dashboard to present key metrics and trends.
+Trend Analysis: Evaluating patterns in daily sales, customer ratings, and region performance.
+Performance Benchmarking: Comparing regions and product performance to identify areas of strength and improvement.
+Observations
+
+1. Sales Contribution by Customer
+The top customers contributing to sales include Sean Miller ($25,043.05), Tamara Chand ($19,052.22), and Raymond Buch ($15,117.34).
+This indicates that a few high-value customers are driving a significant portion of sales.
+2. Top 6 Products by Sub-Category
+The highest-selling sub-categories are:
+
+
+Phones ($327,782.45) – The leading product category.
+
+
+Chairs ($322,822.73) – Very close to phone sales.
+
+
+Storage ($219,343.39) – The third highest-selling category.
+
+
+This suggests that technology and office furniture are major sales drivers.
+
+3. Sales Contribution by Region
+The highest revenue comes from:
+
+
+West ($710,219.68)
+
+
+East ($669,518.73)
+
+
+Central ($492,646.91)
+
+
+The West and East regions contribute the most to sales, possibly due to high customer concentration in major cities.
+4. Top 5 Cities
+Sales are highest in:
+
+
+New York City ($252,462.55)
+
+
+Los Angeles ($173,420.18)
+
+
+Seattle ($116,106.32)
+
+
+This indicates that metropolitan areas significantly impact total sales.
+
+
+5. Sales Performance by Segment
+The top customer segments are:
+
+
+Consumer ($1,148,060.53) – The largest contributor.
+
+
+Corporate ($688,494.07)
+
+
+Home Office ($424,982.18)
+
+
+The consumer segment contributes the most, meaning B2C sales outperform B2B sales.
+
+
+6. Sales Performance by State
+California ($446,306.46) leads, followed by New York ($306,361.15) and Texas ($168,572.53).
+
+
+This aligns with high population densities and economic activity in these states.
+
+
+7. Sales Trend Report
+Sales fluctuate over time, with notable transactions such as:
+
+
+$11,525 on 17/09/2016
+
+
+$11,544 on 17/11/2015
+
+
+$13,408 on 17/11/2018
+
+
+A more detailed time-series analysis could reveal seasonal patterns or peak sales periods.
+
+
+8. Sales by Category
+Technology ($827,455.87) is the best-selling category.
+
+
+Furniture ($728,658.58) follows closely.
+
+
+Office Supplies ($705,422.33) is also a strong contributor.
+
+
+This shows a balanced sales distribution across different categories.
+Recommendations:
+
+Region Performance:
+Investigate what drives the west region's success to replicate strategies across other regions.
+Consider localized marketing campaigns for Branch A and B to boost their contributions.
+Product Optimization:
+Expand the product range for phones, leveraging their high ratings to attract more customers.
+Address the underperformance of machines products by improving quality, offering discounts, or investing in targeted advertising.
+City-Specific Strategies:
+Focus on sustaining New York city's  performance while identifying growth opportunities in San Francisco and Philadelphia.
+Deploy city-specific promotions based on local demand and preferences.
+Sales Periods:
+Develop strategies to mitigate sales dips during early 2018 and late 2015, such as limited-time offers or event-driven promotions.
+Long-term Strategy:
+Continuously monitor trends in products to align offerings with customer preferences.
+Incorporate customer feedback loops to refine inventory and improve product satisfaction over time.
+Conclusion
+
+The data highlights key sales trends across different customer segments, regions, and product categories. Technology and furniture stand out as top-performing categories, with phones and chairs leading in sales. The consumer segment generates the highest revenue, followed by corporate and home office. California and New York contribute significantly to overall sales, while New York City and Los Angeles emerge as top-performing cities. Regionally, the West and East drive the majority of sales, with Central trailing behind. Sales trends show fluctuations over time, emphasizing seasonal variations or promotional impacts. High-value customers, like Sean Miller and Tamara Chand, play a crucial role in revenue generation. These insights suggest opportunities for targeted marketing, regional expansion, and product optimization.
